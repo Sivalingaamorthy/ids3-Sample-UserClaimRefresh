@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+*.vs
+*.vsp*
+*.vss*
+*.log*
+/Hydra_src/Source/CircuitTravel.Services/CircuitTravel.WebAPI
+/Hydra_src/Source/CircuitTravel.Services/CT.ContactPortal.WebApi/Controllers/DashboardController.cs
+/Hydra_src/Source/CircuitTravel.Services/CT.ContactPortal.WebApi/Controllers/HomeControllerInternal.cs
+/POC/IdentityServer3/CircuitTravel.Ids3.sln
+/POC/IdentityServer3
+/Hydra_src/Source/CircuitTravel.Web/Hydra.CMS/Startup.cs
+/Hydra_src/Source/CircuitTravel.Web/Hydra.CMS/Areas/ContactPortal/Controllers/AccountControllerInternal.cs
+/Hydra_src/Source/CircuitTravel.Web/Hydra.CMS/Areas/ContactPortal/Controllers/AccountController.cs
+/Hydra_src/Source/CircuitTravel.Web/Hydra.CMS/Areas/ContactPortal/Controllers
+/Hydra_src/Source/CircuitTravel.Web/Hydra.CMS/App_Start/RegisterRoutes.cs
+/Hydra_src/local.ids3/local.ids3
